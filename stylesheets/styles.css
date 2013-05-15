@@ -3,8 +3,16 @@
 body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  color:#000;
   font-weight:300;
+}
+
+h4.project-item {
+	margin-bottom:5px;
+}
+
+.project-summary {
+	margin-top:0px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -12,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 0 20px;
 }
 
-p, ul, ol, table, pre, dl {
+p, ul, ol, table, pre, dl, div {
   margin:0 0 20px;
 }
 
@@ -33,8 +41,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
-  font-weight:400;
+  color:#19c;
   text-decoration:none;
 }
 
