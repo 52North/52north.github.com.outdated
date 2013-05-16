@@ -7,6 +7,11 @@ body {
   font-weight:300;
 }
 
+
+html {
+    overflow-y: scroll;
+}
+
 h4.project-item {
 	margin-bottom:5px;
 }
